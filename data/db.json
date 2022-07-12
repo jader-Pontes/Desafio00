@@ -1,0 +1,26 @@
+{
+  "veiculos": [
+    {
+      "nome": "Sandero",
+      "marca": "Renault",
+      "cor": "branco",
+      "placa": "PZA3040",
+      "id": 1
+    },
+    {
+      "nome": "Uno",
+      "marca": "Fiat",
+      "cor": "Vermelho",
+      "placa": "jpg2760",
+      "id": 2
+    },
+    {
+      "nome": "ideia",
+      "marca": "fiat",
+      "cor": "vermelho",
+      "ano": 2012,
+      "placa": "JPG1518",
+      "id": 4
+    }
+  ]
+}
